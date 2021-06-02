@@ -1,0 +1,76 @@
+Ejercicio11/Main.java
+ Ejercicio11.Main
+Ejercicio10/QuitarEspacio.java
+ Ejercicio10.QuitarEspacio
+Ejercicio13/FechaHora.java
+ Ejercicio13.FechaHora
+Ejercicio5/Main.java
+ Ejercicio5.Main
+Ejercicio14/NumeroalMil.java
+ Ejercicio14.NumeroalMil
+Ejercicio3/AreaCirculo.java
+ Ejercicio3.AreaCirculo
+Ejercicio9/Main.java
+ Ejercicio9.Main
+Ejercicio18/Serie.java
+ Ejercicio18.Serie
+Ejercicio9/Cadena.java
+ Ejercicio9.Cadena
+Ejercicio1/NumeroMayor.java
+ Ejercicio1.NumeroMayor
+Ejercicio2/Main.java
+ Ejercicio2.Main
+Ejercicio14/Main.java
+ Ejercicio14.Main
+Ejercicio18/Videojuego.java
+ Ejercicio18.Videojuego
+Ejercicio8/DiaSemana.java
+ Ejercicio8.DiaSemana
+Ejercicio12/CompararCadena.java
+ Ejercicio12.CompararCadena
+Ejercicio8/Main.java
+ Ejercicio8.Main
+Ejercicio18/Entregable.java
+ Ejercicio18.Entregable
+Ejercicio7/Main.java
+ Ejercicio7.Main
+Ejercicio6/Main.java
+ Ejercicio6.Main
+Ejercicio11/ContarVocales.java
+ Ejercicio11.ContarVocales
+Ejercicio12/Main.java
+ Ejercicio12.Main
+Ejercicio16/Persona.java
+ Ejercicio16.Persona
+Ejercicio4/Main.java
+ Ejercicio4.Main
+Ejercicio15/MenuOpc.java
+ Ejercicio15.MenuOpc
+Ejercicio1/Main.java
+ Ejercicio1.Main
+Ejercicio10/Main.java
+ Ejercicio10.Main
+Ejercicio4/ProductoIva.java
+ Ejercicio4.ProductoIva
+Ejercicio15/Main.java
+ Ejercicio15.Main
+Ejercicio16/MainEjercicio16.java
+ Ejercicio16.MainEjercicio16
+Ejercicio7/Comparar.java
+ Ejercicio7.Comparar
+Ejercicio3/Main.java
+ Ejercicio3.Main
+Ejercicio18/Principal.java
+ Ejercicio18.Principal
+Ejercicio13/Main.java
+ Ejercicio13.Main
+Ejercicio5/NumParImpar.java
+ Ejercicio5.NumParImpar
+Ejercicio17/Main.java
+ Ejercicio17.Main
+Ejercicio17/Electrodomestico.java
+ Ejercicio17.Electrodomestico
+Ejercicio17/Television.java
+ Ejercicio17.Television
+Ejercicio17/Lavadora.java
+ Ejercicio17.Lavadora
